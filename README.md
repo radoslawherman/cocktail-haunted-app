@@ -1,6 +1,6 @@
-# Cocktail Assistant
+# Cocktail Haunted App
 
-Build a tiny app that helps you gather a shopping list for multiple cocktails.
+Tiny app that helps you gather a shopping list for multiple cocktails.
 
 * cocktails are fetched using TheCocktailDB`s open API:
   https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita
